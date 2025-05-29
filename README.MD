@@ -2,7 +2,7 @@
 
 A simple, clean tool to convert running pace between minutes per kilometer and minutes per mile.
 
-**🏃‍♂️ Feel free to use it at: [www.pace.luisantoniols.com](https://www.pace.luisantoniols.com)**
+**🏃‍♂️ Feel free to use it at: [pace.luisantoniols.com](https://pace.luisantoniols.com)**
 
 ## Features
 
